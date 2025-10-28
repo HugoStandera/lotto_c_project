@@ -6,8 +6,8 @@ Generates random lottery numbers and checks them against user input.
 ## Features
 
 - Generates a set of random lottery numbers.
-- Allows user to input their own numbers.
-- Compares user numbers against the generated numbers.
+- Allows user to input their own numbers or have them generated.
+- Compares user numbers against the winning numbers.
 - Displays how many numbers the user matched.
 
 ## How to Compile
