@@ -1,5 +1,5 @@
 /*
-Lotto Array		Hugo Standera
+Lotto C Project		Hugo Standera
 */
 
 #include <stdio.h>
