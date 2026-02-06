@@ -1,7 +1,7 @@
 # Lotto C Project
 
 A simple console-based lottery programme written in C.  
-Generates random lottery numbers and checks them against user input.
+Generates random lottery numbers and checks them against user input. Developed in Embarcadero Dev++.
 
 ## Features
 
@@ -12,5 +12,5 @@ Generates random lottery numbers and checks them against user input.
 
 ## How to Compile
 
-Make sure you have a C compiler installed (e.g. Dev-C++).  
+Make sure you have a C compiler installed (e.g. Dev C++, VS code with C/C++ extension enabled).  
 Open a terminal in the project folder and run.
