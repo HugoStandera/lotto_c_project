@@ -12,5 +12,5 @@ Generates random lottery numbers and checks them against user input. Developed i
 
 ## How to Compile
 
-Make sure you have a C compiler installed (e.g. Dev C++, VS code with C/C++ extension enabled).  
+Make sure you have a C compiler installed (e.g. Dev-C++, g++, or Visual Studio with C++ tools).  
 Open a terminal in the project folder and run.
